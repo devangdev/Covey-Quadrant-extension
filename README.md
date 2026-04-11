@@ -31,6 +31,6 @@ If you want to run this locally:
 
 Otherwise you can find this extension for Mozilla FireFox on "https://addons.mozilla.org/en-US/firefox/addon/priority-plate/" 
 
-(For Firefox: Navigate to `about:debugging`, click "This Firefox," and "Load Temporary Add-on")
+
 ## License
 This project is licensed under the [MIT License](LICENSE).
