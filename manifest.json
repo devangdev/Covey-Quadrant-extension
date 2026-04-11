@@ -1,11 +1,23 @@
 {
   "manifest_version": 3,
   "name": "Covey's Plate",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "A minimalist task manager using Covey's 4 Quadrants.",
+  "icons": {
+    "16": "clock.png",
+    "32": "clock.png",
+    "48": "clock.png",
+    "128": "clock.png"
+  },
   "action": {
     "default_popup": "popup.html",
-    "default_title": "Open Covey's Plate"
+    "default_title": "Open Covey's Plate",
+    "default_icon": {
+      "16": "clock.png",
+      "32": "clock.png",
+      "48": "clock.png",
+      "128": "clock.png"
+    }
   },
   "permissions": [
     "storage"
